@@ -7,6 +7,8 @@ All materials are Chinese-medium with CN&EN bilingual support, covering all chap
 
 All materials (full exam syllabus, exercises, answers, analysis, key points) available via:
 
+🔹 Website:https://www.csca.school/cscadatabase
+
 🔹 Facebook Group: https://www.facebook.com/groups/csca.cn
 
 🔹 GitHub Repository: https://github.com/sicyes-studyinchina/csca.school
