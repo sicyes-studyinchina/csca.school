@@ -17,3 +17,4 @@ The China's CSCA exam was never designed to create obstacles; it scientifically 
 SICYES, speaking only for ourselves, sincerely thank you for loving China.
 
 As our slogan says: To China, To Connect—let’s meet here and link to the world.
+"# CSCA-study" 
