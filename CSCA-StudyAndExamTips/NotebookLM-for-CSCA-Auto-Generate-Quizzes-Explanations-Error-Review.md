@@ -1,5 +1,11 @@
 ##### **A Free \& Efficient CSCA Method for Study \& Practice Questions**
 
+##### **Video Link:**
+
+https://www.facebook.com/share/v/1CPGPxsQkR/
+
+https://youtu.be/UDB-Aob6Fpc?si=H1ZR5Oqhuf5e3Qam
+
 Hey CSCA aspirants!Here’s an efficient AI study hack for CSCA prep with Google NotebookLM (Gemini) — centered around practice, explanation and targeted review.
 
 📂 Upload categorized CSCA materials Sort and upload free official papers, study guides and question banks (from our group files or https://www.sicyes.com/cscadatabase) by subject into NotebookLM.
@@ -11,10 +17,4 @@ Hey CSCA aspirants!Here’s an efficient AI study hack for CSCA prep with Google
 📌 Auto-built error review log It automatically tracks your incorrect answers, compiles a personalized weak-point list, and lets you focus your review exactly where you need it most.
 
 💻 Pro tip: Use a desktop for material downloads and NotebookLM operations for the smoothest experience.
-
-##### **Video Link:**
-
-https://www.facebook.com/share/v/1CPGPxsQkR/
-
-https://youtu.be/UDB-Aob6Fpc?si=H1ZR5Oqhuf5e3Qam
 
